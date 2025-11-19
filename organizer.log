@@ -1,0 +1,21 @@
+=== Archive Log Entry ===
+Date: 2025-11-19 11:32:52
+Original File: grades.csv
+New Location: archive\grades-20251119-113252.csv
+--- File Content ---
+Assignment,Category,Grade,Weight
+Linux,SA,90.00,8.00
+
+--- End of Content ---
+
+=== Archive Log Entry ===
+Date: 2025-11-19 11:39:32
+Original File: grades.csv
+New Location: archive/grades-20251119-113931.csv
+--- File Content ---
+Assignment,Category,Grade,Weight
+Linux,SA,90.00,3.00
+Pyhon,SA,87.00,20.00
+
+--- End of Content ---
+

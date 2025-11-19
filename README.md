@@ -44,14 +44,14 @@ After each assignment, you'll be asked if you want to add another. Enter 'y' to 
 Grade Generator - enter assignment details. Press Enter when prompted.
 
 Enter assignment details:
-  Assignment name: Quiz 1
+  Assignment name: Introduction_to_Python_Programming_and_Databases
   Category (FA/SA): FA
   Grade obtained (0-100): 85
   Weight (positive number, e.g., 30): 10
 Add another assignment? (y/n): y
 
 Enter assignment details:
-  Assignment name: Final Exam
+  Assignment name: Introduction to Linux and IT Tools
   Category (FA/SA): SA
   Grade obtained (0-100): 92
   Weight (positive number, e.g., 30): 50
@@ -144,7 +144,7 @@ This is a school project. Feel free to use and modify as needed.
 
 ## Author
 
-School Project - Python Grade Generator
+Olivier Dusabamahoro
 
 ## Notes
 
